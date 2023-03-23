@@ -19,46 +19,48 @@
     </header>
 
     <main>
-        <form action=""id="form">
-            <div id="container">
+        <form action="" id="form">
+            <div id="contenedor">
                 <div id="">
                     <label for="">propietario del vehiculo</label> <br>
-                    <input type="text">
+                    <input type="text"placeholder="propietario del vehiculo" id="propietario">
                 </div>
 
                 <div id="modelo">
                     <label for="">modelo vehiculo</label> <br>
-                    <input type="text">
+                    <input type="text"placeholder="modelo del vehiculo" id="modelo">
                 </div>
 
                 <div id="info">
                     <div>
-                        <label for="">placa</label>
-                        <input type="text"placeholder="NN-NN-LL">
+                        <label for="">placa</label> <br>
+                        <input type="text"placeholder="NN-NN-LL" id="placa">
                     </div>
                     <div>
-                        <label for="">tipo</label>
-                        <input type="text">
+                        <label for="">tipo</label> <br>
+                        <input type="text"placeholder="carro moto" id="tipo">
                     </div>
                 </div>
 
                 <div id="info2">
                     <div>
-                        <label for="">fecha de entrada</label>
-                        <input type="date"placeholder=>
+                        <label for="">fecha de entrada</label> <br>
+                        <input type="date" id="fecha" >
                     </div>
                     <div>
-                        <label for="">hora de inicio</label>
-                        <input type="time">
+                        <label for="">hora de inicio</label> <br>
+                        <input type="time" id="hora">
                     </div>
                     <div>
-                        <label for="">cantidad de hora</label>
-                        <input type="number">
+                        <label for="">cantidad de hora</label> <br>
+                        <input type="number"placeholder="cantidad" id="cantidad">
                     </div>
                 </div>
             </div>
+            <button type="submit">Enviar</button>
         </form>
     </main>
-
+<script src="./script.js/script2.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </body>
 </html>
