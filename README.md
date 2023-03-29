@@ -72,7 +72,7 @@
 ## **etiquetas block, inline e inline-block**
 
 *Display block:*
-1. h1
+1. 
 2.
 3.
 4.
