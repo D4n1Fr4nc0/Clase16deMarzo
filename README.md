@@ -30,6 +30,8 @@
 28. < cite > < /cite > Para indicar el título de una obra
 29. < mark > < /mark > Usada para resaltar texto
 30. < source > Permite a autores especificar recursos multimedia alternativos para las etiquetas de < video > o < audio >
+  
+![html](https://programacion.net/files/article/20161223111243_html5.jpg)
 
 ## **Consulta 30 estilos Css**
 1. font-family: Establece una familia o fuente tipográfica
@@ -62,17 +64,45 @@
 28. padding-bottom: relleno desde abajo hacia adentro
 29. padding-left: relleno desde la izquierda hacia adentro
 30. padding: relleno o espacio interior desde el borde de un elemento hacia dentro
+  
+![css](https://f9s9t9d6.rocketcdn.me/wp-content/uploads/2020/04/Artboard-11-1024x724.png)
 
 ## **Consulta que es Display block, inline e inline-block**
 
 *Display block:* hace que el comportamiento del elemento sea como un bloque
 *inline:* el elemento se renderizará en línea con otros elementos
 *inline-block* el elemento tendrá un comportamiento mezcla entre los dos anteriores, que ahora voy a describir
+  
+![CSS](https://i.ytimg.com/vi/Mlzz1xRB0sc/maxresdefault.jpg)
 
 ## **etiquetas block, inline e inline-block**
 
 *Display block:*
-1. kjgnkjrgtn
+1.< address > Información de contacto
+2.< article > Contenido de Articulo
+3.< aside > Contenido adicional
+4.< audio > Reproductor de audio
+5.< blockquote > Bloque de "cita"
+6.< canvas > Dibujo canvas
+7.< dd > Descripción de definición
+8.< div > División de documento
+9.< dl > Lista de definición
+10.< fieldset > Etiqueta de conjunto de campos
+
+*inline:*
+1.< a > etiqueta de enlace
+2.< code > para fragmentos de código
+3.< em > Texto negrita
+4.< i > etiqueta para cursiva
+5.< img > para imagenes
+6.< input > campos de formulario
+7.< span > fragmentes de contenido
+8.< strong > texto fuerte
+9.< sub > para texto subíndice
+10.< sup > texto superíndice
+
+*inline-block:*
+1.
 2.
 3.
 4.
@@ -82,6 +112,5 @@
 8.
 9.
 10.
-
-
+  
 
