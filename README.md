@@ -78,28 +78,28 @@
 ## **etiquetas block, inline e inline-block**
 
 *Display block:*
-1.< address > Información de contacto
-2.< article > Contenido de Articulo
-3.< aside > Contenido adicional
-4.< audio > Reproductor de audio
-5.< blockquote > Bloque de "cita"
-6.< canvas > Dibujo canvas
-7.< dd > Descripción de definición
-8.< div > División de documento
-9.< dl > Lista de definición
-10.< fieldset > Etiqueta de conjunto de campos
+1. < address > Información de contacto
+2. < article > Contenido de Articulo
+3. < aside > Contenido adicional
+4. < audio > Reproductor de audio
+5. < blockquote > Bloque de "cita"
+6. < canvas > Dibujo canvas
+7. < dd > Descripción de definición
+8. < div > División de documento
+9. < dl > Lista de definición
+10. < fieldset > Etiqueta de conjunto de campos
 
 *inline:*
-1.< a > etiqueta de enlace
-2.< code > para fragmentos de código
-3.< em > Texto negrita
-4.< i > etiqueta para cursiva
-5.< img > para imagenes
-6.< input > campos de formulario
-7.< span > fragmentes de contenido
-8.< strong > texto fuerte
-9.< sub > para texto subíndice
-10.< sup > texto superíndice
+1. < a > etiqueta de enlace
+2. < code > para fragmentos de código
+3. < em > Texto negrita
+4. < i > etiqueta para cursiva
+5. < img > para imagenes
+6. < input > campos de formulario
+7. < span > fragmentes de contenido
+8. < strong > texto fuerte
+9. < sub > para texto subíndice
+10. < sup > texto superíndice
 
 *inline-block:*
 1.
@@ -113,4 +113,33 @@
 9.
 10.
   
-
+## **Consultar cuales son los eventos en JavaScript**
+1. abort (onabort) Este evento se produce cuando un usuario detiene la carga de una imagen, ya sea porque detiene la carga de la página o porque realiza una acción que la detiene, como por ejemplo irse de la página.
+2. blur (onblur) Se desata un evento onblur cuando un elemento pierde el foco de la aplicación. El foco de la aplicación es el lugar donde está situado el cursor, por ejemplo puede estar situado sobre un campo de texto, una página, un botón o cualquier otro elemento.
+3. change (onchange) Se desata este evento cuando cambia el estado de un elemento de formulario, en ocasiones no se produce hasta que el usuario retira el foco de la aplicación del elemento 
+4. click (onclick) Se produce cuando se da una pulsación o clic al botón del ratón sobre un elemento de la página, generalmente un botón o un enlace.
+5. dragdrop (ondragdrop) Se produce cuando un usuario suelta algo que había arrastrado sobre la página web
+6. error (onerror) Se produce cuando no se puede cargar un documento o una imagen y esta queda rota
+7. focus (onfocus) El evento onfocus es lo contrario de onblur. Se produce cuando un elemento de la página o la ventana ganan el foco de la aplicación
+8. keydown (onkeydown) Este evento se produce en el instante que un usuario presiona una tecla, independientemente que la suelte o no. Se produce en el momento de la pulsación
+9. keyup (onkeyup) Se produce cuando el usuario deja de apretar una tecla. Se produce en el momento que se libera la tecla
+10. mousedown (onmousedown) Se produce el evento onmousedown cuando el uuario pulsa sobre un elemento de la página. onmousedown se produce en el momento de pulsar el botón, se suelte o no
+11. mousemove (onmousemove) Se produce cuando el ratón se mueve por la página
+12. mouseout (onmouseout) Se desata un evento onmuoseout cuando el puntero del ratón sale del área ocupada por un elemento de la página
+13. mouseover (onmouseover) Este evento se desata cuando el puntero del ratón entra en el área ocupada por un eolemento de la página
+14. mouseup (onmouseup) Este evento se produce en el momento que el usuario suelta el botón del ratón, que previamente había pulsado
+15. move (onmove) Evento que se ejecuta cuando se mueve la ventana del navegador, o un frame
+16. resize (onresize) Evento que se produce cuando se redimensiona la ventana del navegador, o el frame, en caso de que la página los tenga
+17. reset (onreset) Este evento está asociado a los formularios y se desata en el momento que un usuario hace clic en el botón de reset de un formulario
+18. select (onselect) Se ejecuta cuando un usuario realiza una selección de un elemento de un formulario
+19. submit (onsubmit) Ocurre cuando el visitante apreta sobre el botón de enviar el formulario. Se ejecuta antes del envío propiamente dicho
+20. unload (onunload) Al abandonar una página, ya sea porque se pulse sobre un enlace que nos lleve a otra página o porque se cierre la ventana del navegador, se ejecuta el evento onunload
+  
+##**Consultar que son los selectores simples y los compuestos**
+  
+*compuestos:* dentificador en la hoja de estilos del elemento o elementos del DOM a los que se aplicarán las declaraciones contenidas en la regla de la que forma parte dicho selector
+  
+*simples:* es aquel que está formado sólo por una única cadena textual, sin ningún combinador
+  
+  
+  
