@@ -72,7 +72,7 @@
 ## **etiquetas block, inline e inline-block**
 
 *Display block:*
-1. 
+1. kjgnkjrgtn
 2.
 3.
 4.
