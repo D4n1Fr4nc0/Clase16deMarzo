@@ -71,7 +71,7 @@
 
 *Display block:* hace que el comportamiento del elemento sea como un bloque
 *inline:* el elemento se renderizará en línea con otros elementos
-*inline-block* el elemento tendrá un comportamiento mezcla entre los dos anteriores, que ahora voy a describir
+*inline-block* el elemento tendrá un comportamiento mezcla entre los dos anteriores
   
 ![CSS](https://i.ytimg.com/vi/Mlzz1xRB0sc/maxresdefault.jpg)
 
@@ -102,16 +102,16 @@
 10. < sup > texto superíndice
 
 *inline-block:*
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. < a > etiqueta de enlace
+2. < code > para fragmentos de código
+3. < em > Texto negrita
+4. < i > etiqueta para cursiva
+5. < img > para imagenes
+6. < input > campos de formulario
+7. < span > fragmentes de contenido
+8. < strong > texto fuerte
+9. < sub > para texto subíndice
+10. < sup > texto superíndice
   
 ## **Consultar cuales son los eventos en JavaScript**
 1. abort (onabort) Este evento se produce cuando un usuario detiene la carga de una imagen, ya sea porque detiene la carga de la página o porque realiza una acción que la detiene, como por ejemplo irse de la página.
@@ -135,7 +135,7 @@
 19. submit (onsubmit) Ocurre cuando el visitante apreta sobre el botón de enviar el formulario. Se ejecuta antes del envío propiamente dicho
 20. unload (onunload) Al abandonar una página, ya sea porque se pulse sobre un enlace que nos lleve a otra página o porque se cierre la ventana del navegador, se ejecuta el evento onunload
   
-##**Consultar que son los selectores simples y los compuestos**
+## **Consultar que son los selectores simples y los compuestos**
   
 *compuestos:* dentificador en la hoja de estilos del elemento o elementos del DOM a los que se aplicarán las declaraciones contenidas en la regla de la que forma parte dicho selector
   
